@@ -9,4 +9,5 @@ export default {
     SUNRISE: 'sunrise',
     SUNSET: 'sunset',
     HUMIDITY: 'humidity',
+    ERROR_ON_CONSULT: 'Error getting the weather data.'
 }
