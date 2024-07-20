@@ -1,0 +1,12 @@
+export default {
+    WEATHER: 'weather',
+    CHOSE_CITY: 'select a city',
+    DAWN: 'dawn',
+    MORNING: 'morning',
+    AFTERNOON: 'afternoon',
+    NIGHT: 'nigtht',
+    WIND_SPEED: 'wind speed',
+    SUNRISE: 'sunrise',
+    SUNSET: 'sunset',
+    HUMIDITY: 'humidity',
+}
