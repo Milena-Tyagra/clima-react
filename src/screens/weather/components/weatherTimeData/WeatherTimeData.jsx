@@ -2,7 +2,6 @@ import { LineVertical } from "@phosphor-icons/react";
 import { displayMessage } from "../../../../helpers/messages";
 
 export const WeatherTimeData = ({ data }) => {
-  console.log(data)
   return (
     <div className="flex">
       {data.map((time, i) => (
