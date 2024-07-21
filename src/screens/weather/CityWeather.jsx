@@ -4,7 +4,7 @@ import { DateTime } from "luxon";
 import { ArrowLeft, CloudSun, Moon, SealWarning, Sun } from "@phosphor-icons/react";
 
 import { Title } from "../../components/title/Title";
-import { WeatherPrincipalData } from "./components/WeatherPrincipalData";
+import { WeatherPrincipalData } from "./components/weatherPrincipalData/WeatherPrincipalData";
 import { WeatherDayData } from "./components/weatherDayData/WeatherDayData";
 import { WeatherTimeData } from "./components/WeatherTimeData";
 
