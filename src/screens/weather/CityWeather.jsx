@@ -5,7 +5,7 @@ import { ArrowLeft, CloudSun, Moon, SealWarning, Sun } from "@phosphor-icons/rea
 
 import { Title } from "../../components/title/Title";
 import { WeatherPrincipalData } from "./components/WeatherPrincipalData";
-import { WeatherDayData } from "./components/WeatherDayData";
+import { WeatherDayData } from "./components/weatherDayData/WeatherDayData";
 import { WeatherTimeData } from "./components/WeatherTimeData";
 
 import { getWeather } from "../../service/apis";
